@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    font-family: "Georgia", serif;
+    background-color: black;
+    color: white;
+}
+
+/* HERO SECTION */
+.hero {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.play-btn {
+    margin-top: 20px;
+    font-size: 24px;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+/* QUOTE SECTION */
+.quote-section {
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.quote-text {
+    flex: 1;
+    font-size: 22px;
+    padding: 20px;
+}
+
+.quote-image {
+    flex: 1;
+    text-align: center;
+}
+
+.quote-image img {
+    width: 260px;
+    filter: grayscale(100%);
+    border-radius: 4px;
+}
+
+/* BIOGRAPHY SECTION */
+.bio {
+    padding: 60px;
+}
+
+.bio h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.bio p {
+    font-size: 16px;
+    line-height: 1.8;
+    max-width: 850px;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: gray;
+}
