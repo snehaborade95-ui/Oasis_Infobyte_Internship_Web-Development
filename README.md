@@ -12,9 +12,6 @@ These projects focus on building responsive, user-friendly web applications usin
 This repository contains the web development projects assigned during my internship at **Oasis Infobyte**.  
 The internship emphasized hands-on learning, starting from static web pages and gradually progressing toward interactive and dynamic web applications.
 
-### ⚠️ Important Note
-All coding was done using **Notepad** (HTML, CSS, and JavaScript files).  
-Projects were executed and tested directly in the browser without using advanced IDEs or frameworks, demonstrating strong fundamentals in core web development.
 
 ---
 
