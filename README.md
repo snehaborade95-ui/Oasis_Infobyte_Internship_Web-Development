@@ -1,4 +1,4 @@
-# 🌐 Oasis_Infobyte_Internship_Web_Development
+#  Oasis_Infobyte_Internship_Web_Development
 
 Web Development internship projects for Oasis Infobyte.
 Features multiple hands-on tasks including a Temperature Converter, Calculator Application, Tribute Page, To-Do List Web App, and a basic Login Authentication System, focusing on core frontend development concepts using HTML, CSS, and JavaScript.
