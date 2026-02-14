@@ -1,6 +1,6 @@
 # Oasis_Infobyte_Internship_Web_Development
 
-## Web Development Internship Projects – Oasis Infobyte
+## Oasis Infobyte: Web Development Internship Projects 
 
 A collection of frontend and basic backend web development tasks completed during my internship at **Oasis Infobyte**.  
 These projects focus on building responsive, user-friendly web applications using core web technologies.
