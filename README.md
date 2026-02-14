@@ -29,7 +29,7 @@ The internship emphasized hands-on learning, starting from static web pages and 
 
 ## 📁 Repository Structure
 
-*(Folder names may vary based on assigned tasks)*
+
 
 ---
 
